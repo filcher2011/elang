@@ -1,5 +1,10 @@
 <p align="center"><img src="logoElng.png" width="300px" alt="logo"></p>
 <h1 align="center">ELANG PROGRAMMING LANGUAGE</h1>
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=green?style=plastic&logo=appveyor">
+<img src="https://img.shields.io/static/v1?label=path&message=2025.05.08B&color=green?style=plastic&logo=appveyor">
+</div> <br>
+
 Elang is an interpreted programming language created for educational purposes. This programming language is designed for creating simple scripts and algorithms.
 
 <br><br>
